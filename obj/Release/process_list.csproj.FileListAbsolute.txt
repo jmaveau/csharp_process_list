@@ -1,0 +1,9 @@
+c:\users\1839150\documents\visual studio 2013\Projects\process_list\process_list\bin\Release\process_list.exe.config
+c:\users\1839150\documents\visual studio 2013\Projects\process_list\process_list\bin\Release\process_list.exe
+c:\users\1839150\documents\visual studio 2013\Projects\process_list\process_list\bin\Release\process_list.pdb
+c:\users\1839150\documents\visual studio 2013\Projects\process_list\process_list\obj\Release\process_list.csprojResolveAssemblyReference.cache
+c:\users\1839150\documents\visual studio 2013\Projects\process_list\process_list\obj\Release\process_list.Form1.resources
+c:\users\1839150\documents\visual studio 2013\Projects\process_list\process_list\obj\Release\process_list.Properties.Resources.resources
+c:\users\1839150\documents\visual studio 2013\Projects\process_list\process_list\obj\Release\process_list.csproj.GenerateResource.Cache
+c:\users\1839150\documents\visual studio 2013\Projects\process_list\process_list\obj\Release\process_list.exe
+c:\users\1839150\documents\visual studio 2013\Projects\process_list\process_list\obj\Release\process_list.pdb
